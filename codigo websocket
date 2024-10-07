@@ -1,4 +1,4 @@
-#include <ESP8266WiFi.h>
+#include <WiFi.h>
 #include <WebSocketClient.h>
 
 const char* ssid     = "CESJT ";
